@@ -1,4 +1,4 @@
-# SAD_project
+# SDA_project
 Design pattern implementation for SAD course
 
 Create a folder called SDA and copy all files to it.
